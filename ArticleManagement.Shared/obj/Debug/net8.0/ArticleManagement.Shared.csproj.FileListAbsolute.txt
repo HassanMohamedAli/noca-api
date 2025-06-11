@@ -1,0 +1,11 @@
+E:\Noca Task\ArticleManagement\ArticleManagement.Shared\bin\Debug\net8.0\ArticleManagement.Shared.deps.json
+E:\Noca Task\ArticleManagement\ArticleManagement.Shared\bin\Debug\net8.0\ArticleManagement.Shared.dll
+E:\Noca Task\ArticleManagement\ArticleManagement.Shared\bin\Debug\net8.0\ArticleManagement.Shared.pdb
+E:\Noca Task\ArticleManagement\ArticleManagement.Shared\obj\Debug\net8.0\ArticleManagement.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Noca Task\ArticleManagement\ArticleManagement.Shared\obj\Debug\net8.0\ArticleManagement.Shared.AssemblyInfoInputs.cache
+E:\Noca Task\ArticleManagement\ArticleManagement.Shared\obj\Debug\net8.0\ArticleManagement.Shared.AssemblyInfo.cs
+E:\Noca Task\ArticleManagement\ArticleManagement.Shared\obj\Debug\net8.0\ArticleManagement.Shared.csproj.CoreCompileInputs.cache
+E:\Noca Task\ArticleManagement\ArticleManagement.Shared\obj\Debug\net8.0\ArticleManagement.Shared.dll
+E:\Noca Task\ArticleManagement\ArticleManagement.Shared\obj\Debug\net8.0\refint\ArticleManagement.Shared.dll
+E:\Noca Task\ArticleManagement\ArticleManagement.Shared\obj\Debug\net8.0\ArticleManagement.Shared.pdb
+E:\Noca Task\ArticleManagement\ArticleManagement.Shared\obj\Debug\net8.0\ref\ArticleManagement.Shared.dll

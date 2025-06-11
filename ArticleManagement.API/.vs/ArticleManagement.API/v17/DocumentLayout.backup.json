@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Noca Task\\ArticleManagement\\ArticleManagement.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE05F03-E159-497B-B127-FF33F9B5B902}|ArticleManagement.API.csproj|e:\\noca task\\articlemanagement\\articlemanagement.api\\controllers\\v1\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE05F03-E159-497B-B127-FF33F9B5B902}|ArticleManagement.API.csproj|solutionrelative:controllers\\v1\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticlesController.cs",
+              "DocumentMoniker": "E:\\Noca Task\\ArticleManagement\\ArticleManagement.API\\Controllers\\V1\\ArticlesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\V1\\ArticlesController.cs",
+              "ToolTip": "E:\\Noca Task\\ArticleManagement\\ArticleManagement.API\\Controllers\\V1\\ArticlesController.cs",
+              "RelativeToolTip": "Controllers\\V1\\ArticlesController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAASwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:27:22.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

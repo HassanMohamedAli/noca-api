@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XpgbC9lFyjk=",
+  "success": true,
+  "projectFilePath": "E:\\Noca Task\\ArticleManagement\\ArticleManagement.Domain\\ArticleManagement.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\h.ali\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.300\\microsoft.net.sdk.compilers.toolset.9.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}

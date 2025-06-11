@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "nuyQ069vY3E=",
+  "success": true,
+  "projectFilePath": "E:\\Noca Task\\ArticleManagement\\ArticleManagement.Application\\ArticleManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\h.ali\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
+    "C:\\Users\\h.ali\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\h.ali\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\h.ali\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\h.ali\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.300\\microsoft.net.sdk.compilers.toolset.9.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}

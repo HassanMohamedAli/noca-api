@@ -1,0 +1,196 @@
+[
+  {
+    "ContainingType": "ArticleManagement.API.Controllers.V1.ArticleCategoryController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/ArticleCategory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ArticleManagement.API.Controllers.V1.ArticleCategoryController",
+    "Method": "Create",
+    "RelativePath": "api/v1/ArticleCategory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ArticleManagement.Application.DTOs.ArticleCategoryDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ArticleManagement.API.Controllers.V1.ArticlesController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/Articles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ArticleManagement.API.Controllers.V1.ArticlesController",
+    "Method": "Create",
+    "RelativePath": "api/v1/Articles",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ArticleManagement.Application.DTOs.ArticleDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ArticleManagement.API.Controllers.V1.ArticlesController",
+    "Method": "Update",
+    "RelativePath": "api/v1/Articles",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ArticleManagement.Application.DTOs.ArticleDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ArticleManagement.API.Controllers.V1.ArticlesController",
+    "Method": "GetById",
+    "RelativePath": "api/v1/Articles/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ArticleManagement.API.Controllers.V1.ArticlesController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/Articles/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ArticleManagement.API.Controllers.V1.ArticlesController",
+    "Method": "Filter",
+    "RelativePath": "api/v1/Articles/filter",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ArticleCategoryId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "BicycleCategoryIds",
+        "Type": "System.Collections.Generic.List\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "MaterialId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ArticleManagement.API.Controllers.V1.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/v1/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ArticleManagement.Application.DTOs.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ArticleManagement.API.Controllers.V1.BicycleCategoriesController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/BicycleCategories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ArticleManagement.API.Controllers.V1.BicycleCategoriesController",
+    "Method": "Create",
+    "RelativePath": "api/v1/BicycleCategories",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ArticleManagement.Application.DTOs.BicycleCategoryDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ArticleManagement.API.Controllers.V1.MaterialsController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/Materials",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ArticleManagement.API.Controllers.V1.MaterialsController",
+    "Method": "Create",
+    "RelativePath": "api/v1/Materials",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ArticleManagement.Application.DTOs.MaterialDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
